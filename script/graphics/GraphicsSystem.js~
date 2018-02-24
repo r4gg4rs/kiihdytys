@@ -1,0 +1,8 @@
+
+if(!RR) var RR = { }
+
+RR.GraphicsSystem {
+    constructor() {
+
+    }
+}
